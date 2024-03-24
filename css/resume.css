@@ -1,0 +1,21 @@
+
+img{
+    width: 100px;
+    border-radius: 100px;
+    float: right;
+    margin-right: 20px;
+}
+
+.thehart{
+    background-color: rgb(84, 227, 161);
+}
+.hart{
+   
+    border-radius: 10px;
+    padding-left: 20px;
+    background-color: rgba(137, 237, 204, 0.813);
+}
+.hart2{
+    background-color: rgb(157, 233, 219);
+}
+

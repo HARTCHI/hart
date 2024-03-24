@@ -1,0 +1,25 @@
+
+a{
+    color: rgb(239, 245, 245);
+    background-color: #f88fbb;
+    margin: auto;                        
+    padding: 8px 24px;
+    border-radius: 30px;
+}
+input{
+    margin: 10px;
+}
+.mybg{
+    background-color: #f88fbb;
+}
+footer{
+    background-color: #f88fbb;
+  
+}
+
+.my-circle{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
